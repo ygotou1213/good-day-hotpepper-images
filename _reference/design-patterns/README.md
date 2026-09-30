@@ -16,6 +16,8 @@
 | パターン名 | ファイル | 出典 | 適用メニュー |
 |---|---|---|---|
 | ミネラルアート（天然石・大理石調＋ゴールドフォイル） | `mineral-art-01〜05*.png` | MARIE NAILS / Narym nail art / ayu.naily / nail art by Moli / MINERAL ART DESIGN（2026-07-26ユーザー共有） | 定額アート、持ち込み |
+| ブラウンシアー×レース柄＋小粒ストーン | `18_brown-sheer-lace-rhinestone-user-reference.jpg` | ユーザー共有（2026-09-30） | Hand定額Simple line（2026年10月） |
+| グレージュマグネット×黒シルバーアーガイル＋ゴールドライン | `19_greige-magnetic-argyle-user-reference.jpg` | ユーザー共有（2026-09-30） | Hand定額Trend line（2026年10月） |
 
 ## 新しい参考画像を追加する手順
 
