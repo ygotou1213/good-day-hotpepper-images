@@ -13,6 +13,11 @@
 | `pose-07-buttoning-coat-looking-down-unsplash.jpg` | 胸の前でコートのボタンを両手で留める、伏し目（Unsplash https://unsplash.com/photos/66gf8UpnVh8 、2026-10-31 Claude取得） | 7 |
 | `pose-08-holding-coat-front-chest-unsplash.jpg` | 両手でコートの前身頃を胸の中央で合わせる、カメラ目線（Unsplash https://unsplash.com/photos/rDxga5YbQVQ 、同上） | 8 |
 | `pose-09-seated-hands-on-table-unsplash.jpg` | テーブルに座り両腕を置いて手を前で重ねる（Unsplash https://unsplash.com/photos/LFGF6SL3Co0 、同上） | 9 |
+| `pose-10-look-back-over-shoulder-unsplash.jpg` | 歩きながら肩越しに振り返る、髪とコートが動く（Unsplash https://unsplash.com/photos/2MeR7oeudlE 、顔はモザイク処理済み、2026-10-31 Claude取得） | 10 |
+| `pose-11-walking-in-wind-unsplash.jpg` | 風の中を大股で歩く横〜斜め後ろのアングル（Unsplash https://unsplash.com/photos/vzfk2QjP4l0 、同上） | 11 |
+| `pose-12-crouching-arms-on-knee-unsplash.jpg` | しゃがんで膝の上で腕を重ね、低めのアングルから見据える（Unsplash https://unsplash.com/photos/IDC7g-ccgv0 、同上） | 12 |
+
+**ポーズ参考の使い方（2026-10-31）**：実在人物の写真は、顔をモザイク処理してから添付する（顔立ちが生成画像に混ざるのを防ぐため）。顔の正本は`_reference/ref-A〜D`の4枚を切り抜かずにそのまま添付する。
 
 ## 新しい参考画像を追加する手順
 
