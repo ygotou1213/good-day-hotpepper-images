@@ -13,6 +13,7 @@
 | `subvisual-01-mug-marble-pearl-nail.png` | 手でマグカップを持つ構図。ネイルは微粒子パール／マーブル質感の「ちゅるん」ツヤ系、5指で色・柄違い（無地パール2色＋マーブル2色）。左に5色のカラースウォッチ（ピンクパール・シルベージュパール・ローズパール・クリームパール・ラベンダーグレーパール）（2026-07-27ユーザー共有） |
 | `subvisual-02-knit-mug-torso-orange-unsplash.jpg` | オレンジのローゲージニットの女性が胸元で両手でマグを持つ実写。首元〜腰のフレーミング、無地のくすんだ背景、小物なし。AI感を抑える構図・光・質感の参考（Unsplash https://unsplash.com/photos/fdR0mlAvHKI 、2026-10-31 Claude取得。マグのロゴは流用しない） |
 | `subvisual-03-knit-mug-torso-red-unsplash.jpg` | 赤いニットの女性が両手でマグを持つ実写。同上の参考（Unsplash https://unsplash.com/photos/hMw1-dxitxk 、2026-10-31 Claude取得） |
+| `subvisual-04-side-light-black-mug-unsplash.jpg` | ニットの女性が胸の高さで両手で黒いマグを包む実写。片側（右）からの窓光で左側が暗く沈む陰影、手元にピントを置いた浅い被写界深度、くすんだティール〜グレーの低彩度トーン。芸術性を上げる光と陰影の参考（Unsplash https://unsplash.com/photos/H77F2WMUXUQ 、顔はモザイク処理済み、2026-10-31 ユーザー指定・Claude取得） |
 
 ## 新しい参考画像を追加する手順
 
