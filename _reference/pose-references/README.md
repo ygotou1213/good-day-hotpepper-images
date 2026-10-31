@@ -10,6 +10,9 @@
 | ファイル | 内容 | 対応パターン# |
 |---|---|---|
 | `pose-06-both-hands-up-tilted-back.png` | 両手を頭上（髪）に添え、顔を仰け反らせて目を閉じるポーズ（2026-07-27ユーザー共有） | 6 |
+| `pose-07-buttoning-coat-looking-down-unsplash.jpg` | 胸の前でコートのボタンを両手で留める、伏し目（Unsplash https://unsplash.com/photos/66gf8UpnVh8 、2026-10-31 Claude取得） | 7 |
+| `pose-08-holding-coat-front-chest-unsplash.jpg` | 両手でコートの前身頃を胸の中央で合わせる、カメラ目線（Unsplash https://unsplash.com/photos/rDxga5YbQVQ 、同上） | 8 |
+| `pose-09-seated-hands-on-table-unsplash.jpg` | テーブルに座り両腕を置いて手を前で重ねる（Unsplash https://unsplash.com/photos/LFGF6SL3Co0 、同上） | 9 |
 
 ## 新しい参考画像を追加する手順
 
